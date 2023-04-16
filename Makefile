@@ -22,4 +22,4 @@ vigenere.o: vigenere.cpp vigenere.h
 decrypt.o: decrypt.cpp decrypt.h
 
 clean:
-	rm -f *.o test-ascii main
+	rm -f *.o test-ascii main tests
